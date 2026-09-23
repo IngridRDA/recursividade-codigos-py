@@ -29,7 +29,7 @@ recursividade-codigos-py/
     ├── 03_somalista.py
     ├── 04_palindromo.py
     └── 05_contaOcorrencia.py
-    ```
+```
 
 ## Trabalho completo
 
