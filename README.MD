@@ -20,13 +20,23 @@ Os códigos estão organizados na pasta `src`:
 recursividade-codigos-py/
 ├── README.md
 ├── .gitignore
+├── docs/
+│   ├── Atividade_1_Estruturas_de_Dados.docx
+│   └── Atividade_1_Estruturas_de_Dados.pdf
 └── src/
     ├── 01_fatorial.py
     ├── 02_fibonacci.py
     ├── 03_somalista.py
     ├── 04_palindromo.py
     └── 05_contaOcorrencia.py
-```
+    ```
+
+## Trabalho completo
+
+O trabalho acadêmico completo, contendo a fundamentação, os códigos, exemplos de utilização, resultados obtidos e capturas de tela das execuções, está disponível na pasta `docs`.
+
+- [Visualizar trabalho em PDF](docs/Atividade_1_Estruturas_de_Dados.pdf)
+- [Baixar trabalho em Word](docs/Atividade_1_Estruturas_de_Dados.docx)
 
     ## Tecnologias utilizadas
 
