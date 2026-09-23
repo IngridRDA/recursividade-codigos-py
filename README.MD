@@ -38,7 +38,7 @@ O trabalho acadêmico completo, contendo a fundamentação, os códigos, exemplo
 - [Visualizar trabalho em PDF](docs/Atividade_1_Estruturas_de_Dados.pdf)
 - [Baixar trabalho em Word](docs/Atividade_1_Estruturas_de_Dados.docx)
 
-    ## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Visual Studio Code
